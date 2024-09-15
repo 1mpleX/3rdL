@@ -11,7 +11,7 @@
 Написать программу, которая создает срез из строк и находит самую длинную строку.
 
 
-folder mathutils
+folder ThirdLaba/mathutils
 
     package mathutils
     
@@ -39,7 +39,7 @@ folder mathutils
     
     }
     
-folder stringutils
+folder ThirdLaba/stringutils
     
     package stringutils
     
