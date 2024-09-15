@@ -10,6 +10,9 @@
 
 Написать программу, которая создает срез из строк и находит самую длинную строку.
 
+
+folder mathutils
+
     package mathutils
     
     import "fmt"
@@ -36,8 +39,7 @@
     
     }
     
-    
-    
+folder stringutils
     
     package stringutils
     
@@ -57,7 +59,7 @@
     	}
     }
     
-    
+folder ThirdLaba
     
     package main
     
